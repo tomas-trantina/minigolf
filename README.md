@@ -9,16 +9,6 @@
 
 ---
 
-## 📝 Popis projektu (do GitHub "About")
-
-**CZ:**
-> Moderní 3D minigolf v jediném HTML souboru optimalizovaný pro mobilní telefony. Nabízí procedurálně generované levely, bosse, různé povrchy, vylepšení a denní výzvy přímo v prohlížeči.
-
-**EN:**
-> A modern, mobile-optimized 3D Mini Golf web game contained in a single HTML file. Features procedurally generated courses, boss levels, shop upgrades, daily challenges, and smooth Three.js physics.
-
----
-
 ## ✨ Hlavní Funkce
 
 - 📱 **Mobilní optimalizace a dotykové ovládání**  
